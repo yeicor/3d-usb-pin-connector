@@ -1,1 +1,1 @@
-cadquery==2.6.1
+cadquery==2.7.0
